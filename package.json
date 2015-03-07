@@ -2,7 +2,7 @@
   "name": "FeedNodejs",
   "version": "0.0.0",
   "description": "FeedNodejs",
-  "main": "app.js",
+  "main": "server.js",
   "author": {
     "name": "Riina",
     "email": ""
